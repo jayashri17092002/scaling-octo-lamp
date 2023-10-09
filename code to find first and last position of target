@@ -1,4 +1,4 @@
-lass Solution {
+class Solution {
     public int[] searchRange(int[] nums, int target) {
         int a = nums.length;
         int b[] = new int[2];
